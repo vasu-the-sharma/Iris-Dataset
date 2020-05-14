@@ -18,5 +18,4 @@ Observations:
 Using Petals over Sepal for training the data gives a much better accuracy.
 This was expected as we saw in the heatmap above that the correlation between the Sepal Width and Length was very low whereas the correlation between Petal Width and Length was very high.
 
-//
-//
+
